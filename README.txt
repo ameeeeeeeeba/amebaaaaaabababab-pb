@@ -1,0 +1,3 @@
+Git Hub ir tīmekļa vietne un programma, kas ir galvenais veids, kā koplietot kodu un strādāt ar to. Git Hub var atrast dažādu cilvēku pirmkodu, sākot no koda, kas saka "Sveika, pasaule", līdz pat strādājošiem kalkulatoriem un mākslīgā intelekta palīgiem. Git Hub var izmantot arī, lai novērstu problēmas ar datoru vai iemācītos rakstīt savu kodu.
+
+GitHub licence ir kā līgums, kas nosaka, kā citi cilvēki var mijiedarboties ar jūsu kodu un kur to izmantot. Tā var būt noderīga arī autortiesību noteikšanai un aizsardzībai.
